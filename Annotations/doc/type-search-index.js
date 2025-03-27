@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.lq.annotations","l":"AnnotationExerciser"},{"p":"com.lq.annotations","l":"MyAnnotation"},{"p":"com.lq.annotations","l":"UseAnnotation"}];updateSearchResults();

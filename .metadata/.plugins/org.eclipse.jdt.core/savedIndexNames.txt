@@ -1,0 +1,10 @@
+INDEX VERSION 1.134+/Users/paulo/eclipse-workspace-coursera/.metadata/.plugins/org.eclipse.jdt.core
+3036194008.index
+1203232414.index
+2208506105.index
+2452335066.index
+592963367.index
+2657394288.index
+2079481.index
+3213661742.index
+1865797976.index
